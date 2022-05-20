@@ -216,7 +216,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-    return 'Hola' + 'Martin' + '!'; 
+    return 'Hola ' + 'Martin' + '!'; 
   
 }
 
@@ -239,7 +239,7 @@ function retornarPerimetro(lado){
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
-  return ( base * alto) /2;
+  return ( base * altura) /2;
 
 }
 
